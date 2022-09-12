@@ -1,0 +1,3 @@
+# Um professor precisa de sua ajuda para dar a nota final de um aluno. Pergunte a ele quantas provas foram feitas, em seguida peça a nota de cada uma dessas provas e calcule e imprima a média aritmética dessas notas.
+
+# obs: Lembre-se que as notas dos alunos devem ser números decimais entre 0 e 10. Caso o professor digite um número fora desse padrão seu programa deve reclamar e pedir a nota novamente
